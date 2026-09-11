@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+spacy
+networkx
+scipy
+rapidfuzz
+pydantic
+requests
+python-dotenv
