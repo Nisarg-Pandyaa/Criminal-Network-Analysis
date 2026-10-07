@@ -597,7 +597,7 @@ The current system is intended to assist human investigators by organizing and v
 
 - **[Nisarg Pandya](https://github.com/Nisarg-Pandyaa)**
 - **[Teammate 1]**()
-- **[Teammate 2]**()
+- **[Pankti](https://github.com/pankti378)**
 - **[Anjali Bhalala](https://github.com/anjalibhalala)**
 - **[Teammate 4]**()
 - **[Teammate 5]**()
